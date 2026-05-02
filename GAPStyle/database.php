@@ -1,3 +1,4 @@
+// Update credentials before running the project
 <?php
 
 $servername = "yourservername";
