@@ -1,0 +1,18 @@
+Date: Wed Feb 12 20:31:27 MYT 2025
+Workout: Running
+Category: Aerobic
+Duration: 60 mins
+Calories: 181 kCal
+
+Date: Thu Feb 13 00:00:00 MYT 2025
+Workout: HIIT
+Category: Anaerobic
+Duration: 30 mins
+Calories: 231 kCal
+
+Date: Thu Mar 26 00:00:00 MYT 2026
+Workout: Running
+Category: Aerobic
+Duration: 30 mins
+Calories: 200 kCal
+

@@ -1,0 +1,10 @@
+Date: Wed Feb 12 20:32:25 MYT 2025
+Food: Rice
+Quantity: 2 units
+Total Calories: 260.0 kCal
+
+Date: Thu Mar 26 19:14:57 MYT 2026
+Food: Apple
+Quantity: 1 units
+Total Calories: 52.0 kCal
+

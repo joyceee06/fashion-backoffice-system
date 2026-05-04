@@ -1,0 +1,24 @@
+Date: Wed Feb 12 20:33:23 MYT 2025
+Weight (kg): 1
+Chest (cm): 1
+Waist (cm): 1
+Hip (cm): 1
+
+Date: Thu Feb 13 22:45:46 MYT 2025
+Weight (kg): 2
+Chest (cm): 2
+Waist (cm): 2
+Hip (cm): 2
+
+Date: Thu Feb 13 22:46:29 MYT 2025
+Weight (kg): 1
+Chest (cm): 2
+Waist (cm): 3
+Hip (cm): 4
+
+Date: Thu Mar 26 19:22:41 MYT 2026
+Weight (kg): 50
+Chest (cm): 75
+Waist (cm): 45
+Hip (cm): 50
+
