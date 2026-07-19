@@ -11,10 +11,10 @@ if (file_exists(__DIR__ . '/.env')) {
 }
 
 // Now use the environment variables safely!
-$host     = $_ENV['DB_HOST'] ?? 'localhost';
+$servername     = $_ENV['DB_HOST'] ?? 'localhost';
 $username = $_ENV['DB_USER'] ?? 'root';
 $password = $_ENV['DB_PASS'] ?? '';
-$database = $_ENV['DB_NAME'] ?? 'my_db';
+$dbname = $_ENV['DB_NAME'] ?? '';
 
-$conn = new mysqli($host, $username, $password, $database);
+$conn = new mysqli($servername, $username, $password, $dbName);
 ?>

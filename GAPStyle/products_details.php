@@ -1,4 +1,5 @@
 <?php
+include 'auth.php';
 include_once 'database.php';
 ?>
 
