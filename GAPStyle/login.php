@@ -85,8 +85,8 @@
     <div class="login-card dashboard-card">
       <h2>GAP STYLE Login</h2>
       <form method="post" action="login_process.php">
-        <input type="text" name="username" placeholder="Staff ID" required>
-        <input type="password" name="password" placeholder="Password" required>
+        <input type="text" name="username" placeholder="Please enter your ID" required>
+        <input type="password" name="password" placeholder="Please enter your password" required>
         <button type="submit" class="btn btn-primary">Login</button>
       </form>
     </div>
